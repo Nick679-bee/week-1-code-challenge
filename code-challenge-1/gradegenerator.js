@@ -37,6 +37,6 @@ function studentGrade(grade)
 }
 	
 
-studentGrade (10)
+studentGrade(34)
 
 
