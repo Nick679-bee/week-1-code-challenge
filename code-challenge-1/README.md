@@ -34,7 +34,7 @@ Version:
 Usage
 -----
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT](license.txt)
 
 
 
@@ -74,7 +74,7 @@ Version:
 Usage
 -----
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT](license.txt)
 
 
 
@@ -113,5 +113,5 @@ Version:
 Usage
 -----
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT](license.txt)
 
